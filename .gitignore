@@ -1,0 +1,13 @@
+.DS_Store
+._*
+.\#*
+\#*
+*~
+*.class
+*.swp
+*.bak
+javacore.*
+core.*
+.settings/
+bin/
+*.jar
